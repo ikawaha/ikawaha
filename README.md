@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Goa v3 入門](https://user-images.githubusercontent.com/4232165/99132515-db697b00-2659-11eb-8dae-05b549bcba90.png)
+[![Goa v3 入門](https://user-images.githubusercontent.com/4232165/99132515-db697b00-2659-11eb-8dae-05b549bcba90.png)](https://zenn.dev/ikawaha/books/goa-design-v3)
