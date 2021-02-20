@@ -1,20 +1,11 @@
 ### Hi there 👋
 
-<!--
-**ikawaha/ikawaha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 [![Goa v3 入門](https://user-images.githubusercontent.com/4232165/99132515-db697b00-2659-11eb-8dae-05b549bcba90.png)](https://zenn.dev/ikawaha/books/goa-design-v3)
 
 [![実践：形態素解析 kagome v2](https://user-images.githubusercontent.com/4232165/102152682-e281e400-3eb8-11eb-91f7-13e08a8977d9.png)](https://zenn.dev/ikawaha/books/kagome-v2-japanese-tokenizer)
+
+# Recent Posts
+
+<!--[START github.com/ikawaha/feedsnippet]-->
+
+<!--[END github.com/ikawaha/feedsnippet]-->
