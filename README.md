@@ -6,7 +6,8 @@
 
 # Recent Posts
 
-<!--[START github.com/ikawaha/feedsnippet]--><!--[2021-04-01T07:04:00Z]-->
+<!--[START github.com/ikawaha/feedsnippet]--><!--[2021-04-18T03:07:42Z]-->
+* ![](./icon/zenn.png)[Goa v3 のテストをシュッとする](https://zenn.dev/ikawaha/articles/hatena-20191203-154521)
 * ![](./icon/zenn.png)[Go の形態素解析器を wasm で利用する](https://zenn.dev/ikawaha/articles/20210331-e661ac866f5ff0fc5eb8)
 * ![](./icon/zenn.png)[正規表現の必須要素を抽出する](https://zenn.dev/ikawaha/articles/20210323-347ab9d63316a4517047)
 * ![](./icon/qiita.png)[Qiita/Zennの投稿をGitHubプロフィールに自動反映するためのツールを作った](https://qiita.com/ikawaha/items/6829b2872319aa6be716)
@@ -16,6 +17,5 @@
 * ![](./icon/zenn.png)[実践：形態素解析 kagome v2](https://zenn.dev/ikawaha/books/kagome-v2-japanese-tokenizer)
 * ![](./icon/zenn.png)[形態素解析器 kagome を Google App Engine で動かす](https://zenn.dev/ikawaha/articles/hatena-20161004-221708)
 * ![](./icon/zenn.png)[形態素解析器 kagome を brew tap でインストールできるようにした](https://zenn.dev/ikawaha/articles/20201029-391c049a13fb8506361d)
-* ![](./icon/zenn.png)[Goa v3 入門](https://zenn.dev/ikawaha/books/goa-design-v3)
 <!--[END github.com/ikawaha/feedsnippet]-->
 
