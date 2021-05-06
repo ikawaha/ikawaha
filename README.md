@@ -6,7 +6,8 @@
 
 # Recent Posts
 
-<!--[START github.com/ikawaha/feedsnippet]--><!--[2021-05-03T18:08:09Z]-->
+<!--[START github.com/ikawaha/feedsnippet]--><!--[2021-05-06T15:06:13Z]-->
+* ![](./icon/zenn.png)[メモ：golangci-linter で特定の linter だけ動かしたい](https://zenn.dev/ikawaha/articles/20210506-cfb8a0eba2df86f0a5fd)
 * ![](./icon/zenn.png)[Goa v3 で go:embed を利用する試行錯誤](https://zenn.dev/ikawaha/articles/20210503-3d72f1747f43efd3bdc9)
 * ![](./icon/zenn.png)[Goa v3 のテストをシュッとする](https://zenn.dev/ikawaha/articles/hatena-20191203-154521)
 * ![](./icon/zenn.png)[Go の形態素解析器を wasm で利用する](https://zenn.dev/ikawaha/articles/20210331-e661ac866f5ff0fc5eb8)
@@ -16,6 +17,5 @@
 * ![](./icon/zenn.png)[その文字が JIS X 0208 に含まれるか？ あるいは unicode.RangeTable の使い方](https://zenn.dev/ikawaha/articles/20210116-ab1ac4a692ae8bb4d9cf)
 * ![](./icon/zenn.png)[Go製全文検索エンジンBlugeで日本語形態素解析をおこなう](https://zenn.dev/ikawaha/articles/20201230-84b042603ccbbce645d5)
 * ![](./icon/zenn.png)[実践：形態素解析 kagome v2](https://zenn.dev/ikawaha/books/kagome-v2-japanese-tokenizer)
-* ![](./icon/zenn.png)[形態素解析器 kagome を Google App Engine で動かす](https://zenn.dev/ikawaha/articles/hatena-20161004-221708)
 <!--[END github.com/ikawaha/feedsnippet]-->
 
