@@ -28,4 +28,4 @@ jobs:
         git config --local user.name "ikawaha"
         git log -1
         git add README.md
-        git diff --cached --quiet || git commit -m "Update feed snippet"; git push origin main
+        git diff --cached --quiet || (git commit -m "Update feed snippet" && git push origin main)
