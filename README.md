@@ -6,7 +6,9 @@
 
 # Recent Posts
 
-<!--[START github.com/ikawaha/feedsnippet]--><!--[2022-07-03T00:00:59Z]-->
+<!--[START github.com/ikawaha/feedsnippet]--><!--[2022-07-18T00:01:13Z]-->
+* ![](./icon/zenn.png)[Goa 更新情報 v3.7.12](https://zenn.dev/ikawaha/articles/20220717-c8f77d794dd18e)
+* ![](./icon/zenn.png)[clue 更新情報 v0.9.0](https://zenn.dev/ikawaha/articles/20220715-024418951cf58d)
 * ![](./icon/zenn.png)[Goa 更新情報 v3.7.10](https://zenn.dev/ikawaha/articles/20220702-2fb029d5b376fd)
 * ![](./icon/zenn.png)[Go の workspace を使って go. mod を汚さずに replace を書く](https://zenn.dev/ikawaha/articles/20220701-a053ec54b77435)
 * ![](./icon/zenn.png)[単純な Slack Bot を単純に書くための Go のライブラリをメンテした](https://zenn.dev/ikawaha/articles/20220628-0bd46584a3063d)
@@ -15,7 +17,5 @@
 * ![](./icon/zenn.png)[clue / log パッケージ](https://zenn.dev/ikawaha/articles/20220503-6677a85c121a27)
 * ![](./icon/zenn.png)[Goa v3.7.3 / Clue 0.6.0](https://zenn.dev/ikawaha/articles/20220503-1528a09718aef9)
 * ![](./icon/zenn.png)[PostgreSQL の演算子「?」が GORM のプレースホルダとバッティングするんだが](https://zenn.dev/ikawaha/articles/20220113-bb7328a9f89925)
-* ![](./icon/zenn.png)[NULL な hstore には何を足しても NULL](https://zenn.dev/ikawaha/articles/20211222-faf856de926326)
-* ![](./icon/zenn.png)[errgroupのはまりどころと回避策](https://zenn.dev/ikawaha/articles/20211218-f37638b56e5807)
 <!--[END github.com/ikawaha/feedsnippet]-->
 
