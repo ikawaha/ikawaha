@@ -6,7 +6,8 @@
 
 # Recent Posts
 
-<!--[START github.com/ikawaha/feedsnippet]--><!--[2022-07-18T00:01:13Z]-->
+<!--[START github.com/ikawaha/feedsnippet]--><!--[2022-07-23T00:01:09Z]-->
+* ![](./icon/zenn.png)[さよなら WebDriver Client Agouti](https://zenn.dev/ikawaha/articles/20220722-4719183593a3cb)
 * ![](./icon/zenn.png)[Goa 更新情報 v3.7.12](https://zenn.dev/ikawaha/articles/20220717-c8f77d794dd18e)
 * ![](./icon/zenn.png)[clue 更新情報 v0.9.0](https://zenn.dev/ikawaha/articles/20220715-024418951cf58d)
 * ![](./icon/zenn.png)[Goa 更新情報 v3.7.10](https://zenn.dev/ikawaha/articles/20220702-2fb029d5b376fd)
@@ -16,6 +17,5 @@
 * ![](./icon/zenn.png)[Goa 更新情報 v3.7.4, v3.7.5](https://zenn.dev/ikawaha/articles/20220515-8f78f05cd20ff7)
 * ![](./icon/zenn.png)[clue / log パッケージ](https://zenn.dev/ikawaha/articles/20220503-6677a85c121a27)
 * ![](./icon/zenn.png)[Goa v3.7.3 / Clue 0.6.0](https://zenn.dev/ikawaha/articles/20220503-1528a09718aef9)
-* ![](./icon/zenn.png)[PostgreSQL の演算子「?」が GORM のプレースホルダとバッティングするんだが](https://zenn.dev/ikawaha/articles/20220113-bb7328a9f89925)
 <!--[END github.com/ikawaha/feedsnippet]-->
 
