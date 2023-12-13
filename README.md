@@ -4,7 +4,8 @@
 
 # Recent Posts
 
-<!--[START github.com/ikawaha/feedsnippet]--><!--[2023-11-05T00:19:00Z]-->
+<!--[START github.com/ikawaha/feedsnippet]--><!--[2023-12-13T00:18:07Z]-->
+* ![](./icon/zenn.png)[Goa v3.14.1 更新情報](https://zenn.dev/ikawaha/articles/20231212-98d27c307b9f2e)
 * ![](./icon/zenn.png)[Goa v3.14.0 更新情報](https://zenn.dev/ikawaha/articles/20231104-aeb8e68a07f3a1)
 * ![](./icon/zenn.png)[続:Goa の example が試しやすくなりました](https://zenn.dev/ikawaha/articles/20231026-26b8fba56c35e9)
 * ![](./icon/zenn.png)[Goa の example が試しやすくなりました](https://zenn.dev/ikawaha/articles/20231021-d6b4a05ae1948b)
@@ -14,6 +15,5 @@
 * ![](./icon/zenn.png)[Goa v3.12.4 更新情報](https://zenn.dev/ikawaha/articles/20230820-a86c0c7de4e461)
 * ![](./icon/zenn.png)[Goa v3.12.3 更新情報](https://zenn.dev/ikawaha/articles/20230729-ee6cc1f4c2a34f)
 * ![](./icon/zenn.png)[Goa v3.12.1 更新情報](https://zenn.dev/ikawaha/articles/20230723-1a4228a6f6eeae)
-* ![](./icon/zenn.png)[Go の httptest のサンプル](https://zenn.dev/ikawaha/articles/hatena-20150413-101341)
 <!--[END github.com/ikawaha/feedsnippet]-->
 
