@@ -4,7 +4,8 @@
 
 # Recent Posts
 
-<!--[START github.com/ikawaha/feedsnippet]--><!--[2024-01-21T00:20:25Z]-->
+<!--[START github.com/ikawaha/feedsnippet]--><!--[2024-03-10T00:19:07Z]-->
+* ![](./icon/zenn.png)[Goa v3.15.0 更新情報](https://zenn.dev/ikawaha/articles/20240309-ee293c9b8b3f3d)
 * ![](./icon/zenn.png)[Goa v3.14.6 更新情報](https://zenn.dev/ikawaha/articles/20240120-9daef154b1b8ce)
 * ![](./icon/zenn.png)[Goa v3.14.5 更新情報](https://zenn.dev/ikawaha/articles/20240113-4d1975d1851484)
 * ![](./icon/zenn.png)[2023年ふりかえり](https://zenn.dev/ikawaha/articles/20231231-e271986a9944c3)
@@ -14,6 +15,5 @@
 * ![](./icon/zenn.png)[続:Goa の example が試しやすくなりました](https://zenn.dev/ikawaha/articles/20231026-26b8fba56c35e9)
 * ![](./icon/zenn.png)[Goa の example が試しやすくなりました](https://zenn.dev/ikawaha/articles/20231021-d6b4a05ae1948b)
 * ![](./icon/zenn.png)[Goa v3.13.2 更新情報](https://zenn.dev/ikawaha/articles/20231004-ebb3f3fc0842ea)
-* ![](./icon/zenn.png)[Goa v3.13.0, v3.13.1 更新情報](https://zenn.dev/ikawaha/articles/20230912-7ac657e561814f)
 <!--[END github.com/ikawaha/feedsnippet]-->
 
